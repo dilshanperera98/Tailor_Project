@@ -16,5 +16,4 @@ if __name__ == "__main__":
 
 
 
-pytho with your desired Python version
-python_path = f"/usr
+pytho with s

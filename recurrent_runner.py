@@ -14,4 +14,5 @@ if __name__ == "__main__":
         # Wait for 10 seconds before running again
         time.sleep(10)
 
-nv vgh
+nv vgh gfc hv  j j j jgg h  hj 
+

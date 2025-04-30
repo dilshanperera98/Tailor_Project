@@ -16,7 +16,7 @@ if __name__ == "__main__":
 
 
 
-def update():
+def upda
     while True:
         print("Updating...")
         # Add your update logic here

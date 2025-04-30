@@ -18,6 +18,6 @@ if __name__ == "__main__":
 
 
     
-        print("Updat
+        print("Ups
         # Add your update logic here
         time.sleep(update_interval)

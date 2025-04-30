@@ -20,4 +20,4 @@ if __name__ == "__main__":
     
         
         # Add your update logic here
-        time.sleep(update_interval)
+        time.sleep(update_interv

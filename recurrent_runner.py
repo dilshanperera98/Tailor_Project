@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
 
 
-    while True:
+    while 
         print("Updating...
         # Add your update logic here
         time.sleep(update_interval)

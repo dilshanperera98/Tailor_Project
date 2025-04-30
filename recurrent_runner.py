@@ -20,4 +20,4 @@ if __name__ == "__main__":
     
         
         
-        time.sleep(update_interv
+        time.sleep(update_inte

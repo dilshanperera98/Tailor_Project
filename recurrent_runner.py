@@ -13,4 +13,11 @@ if __name__ == "__main__":
         
         # Wait for 10 seconds before running again
         time.sleep(10)
+    
 
+update_interval = 10  # seconds
+def update():
+    while True:
+        print("Updating...")
+        # Add your update logic here
+        time.sleep(update_interval)

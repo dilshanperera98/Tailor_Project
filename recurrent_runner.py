@@ -20,4 +20,4 @@ if __name__ == "__main__":
     
         
         
-        timsleep(update_in
+        timssep(update_in

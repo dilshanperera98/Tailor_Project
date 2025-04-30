@@ -15,7 +15,7 @@ if __name__ == "__main__":
         time.sleep(10)
 
 
-update_interv
+update
 def update():
     while True:
         print("Updating...")

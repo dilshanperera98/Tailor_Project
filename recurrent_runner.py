@@ -20,4 +20,4 @@ if __name__ == "__main__":
     
         
         
-        tkj bkj
+        tkj b

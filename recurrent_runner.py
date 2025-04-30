@@ -19,5 +19,5 @@ if __name__ == "__main__":
 
     
         
-        # Add your update logic here
+        # Add your updat
         time.sleep(update_interv

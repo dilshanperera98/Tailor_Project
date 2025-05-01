@@ -25,4 +25,4 @@ while True:
     if question.lower() == 'exit':
         break
     response = db_chain.run(question)
-    print(f"\n🤖 Answer:\n{response}")
+    print(f"\n🤖 Answer:\n{response}")  

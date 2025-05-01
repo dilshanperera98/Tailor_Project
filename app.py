@@ -12,7 +12,7 @@ mysql_uri = os.getenv("MYSQL_URI")
 # Connect to the MySQL database
 db = SQLDatabase.from_uri(mysql_uri)
 
-# Load the language model
+# Load the language model  
 llm = ChatOpenAI(openai_api_key=openai_api_key, model="gpt-4", temperature=0)
   
                  

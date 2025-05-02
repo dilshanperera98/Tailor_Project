@@ -2,4 +2,4 @@ openai
 langchain
 pymys
 python-de
-   cv
+   c

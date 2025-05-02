@@ -3,4 +3,3 @@ langchain
 pymys
 python-de
    cv
-Up

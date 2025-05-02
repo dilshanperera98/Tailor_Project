@@ -4,5 +4,5 @@ pymysql
 python-dotenv
 
    
-Updated    python
+Updated    pyth
 veersion 

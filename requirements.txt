@@ -2,5 +2,5 @@ openai
 langchain
 pymys
 python-dote
-   cvfcvfevev
+   cvfcvfev
 Updated

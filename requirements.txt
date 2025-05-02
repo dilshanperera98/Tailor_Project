@@ -2,6 +2,6 @@ openai
 langchain
 pymys
 python-dote
-jbbswcjknkb
+jbbswcjkn
    
 Updatedjhbvhjb

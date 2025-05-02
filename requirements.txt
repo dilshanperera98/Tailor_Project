@@ -2,3 +2,6 @@ openai
 langchain
 pymysql
 python-dotenv
+
+
+Updated

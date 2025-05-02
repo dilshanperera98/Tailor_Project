@@ -1,6 +1,6 @@
 openai
 langchain
 pymys
-python-dote
+python-de
    cvfc
 Updat

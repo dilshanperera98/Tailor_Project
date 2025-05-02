@@ -1,7 +1,7 @@
 openai
 langchain
 pymysql
-python-dotenv
+python-dote
 
    
 Updated    pyth

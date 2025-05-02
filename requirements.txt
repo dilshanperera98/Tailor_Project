@@ -3,4 +3,4 @@ langchain
 pymys
 python-de
    cv
-Updat
+Up

@@ -16,7 +16,7 @@ db = SQLDatabase.from_uri(mysql_uri)
 llm = ChatOpenAI(openai_api_key=openai_api_key, model="gpt-4", temperature=0)
   
                      gahaaaha
-# Create the LangChain SQL agent 
+# Create the LangChain SQL agent
 db_chain = SQLDatabaseChain.from_llm(llm, db, verbose=True)
 
 # Prompt the user for a financial question

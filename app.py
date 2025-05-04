@@ -15,7 +15,7 @@ db = SQLDatabase.from_uri(mysql_uri)
 # Load the language model
 llm = ChatOpenAI(openai_api_key=openai_api_key, model="gpt-4", temperature=0)
   
-                     
+                    
 # Create the LangChain SQL agent
 db_chain = SQLDatabaseChain.from_llm(llm, db, verbose=True)
 

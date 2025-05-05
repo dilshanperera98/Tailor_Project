@@ -1,4 +1,4 @@
 xopenai
 langchain
 pymys
-pytho
+python

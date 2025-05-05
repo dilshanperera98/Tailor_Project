@@ -4,4 +4,3 @@ pymys
 python
 
 updat
-=

@@ -2,5 +2,3 @@ xopenai
 langchain
 pymys
 python
-
-u

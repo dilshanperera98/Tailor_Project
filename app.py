@@ -4,7 +4,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.utilities import SQLDatabase
 from langchain_experimental.sql import SQLDatabaseChain          
 
-# Load API keys and DB URI  gfdhfdhgdcghchg
+# Load API keys and DB URI  gfdhfdhgdcghc
 load_dotenv()  
 openai_api_key = os.getenv("OPENAI_API_KEY")  gr
 mysql_uri = os.getenv("MYSQL_URI")  

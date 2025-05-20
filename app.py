@@ -9,7 +9,7 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")  gr
 mysql_uri = os.getenv("MYSQL_URI")  
    
-# Connect to the MySQL database    
+# Connect to the MySQL database       mjhbm
 db = SQLDatabase.from_uri(mysql_uri)
 
 # Load the language model

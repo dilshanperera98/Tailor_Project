@@ -8,7 +8,7 @@ from langchain_experimental.sql import SQLDatabaseChain
 load_dotenv()  
 openai_api_key = os.getenv("OPENAI_API_KEY")  gr
 mysql_uri = os.getenv("MYSQL_URI")  
-
+   
 # Connect to the MySQL database    
 db = SQLDatabase.from_uri(mysql_uri)
 

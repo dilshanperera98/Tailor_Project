@@ -9,7 +9,7 @@ load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")  
 mysql_uri = os.getenv("MYSQL_URI")  
    
-# Connect to the MySQL database      egrgr 
+# Connect to the MySQL database      egrg
 db = SQLDatabase.from_uri(mysql_uri)
 
 # Load the language model
